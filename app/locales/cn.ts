@@ -168,7 +168,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "有什么可以帮你的吗",
+    BotHello: "有什么可以帮你的吗？需要更多服务添加微信：nclzhm，咨询！",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) =>
